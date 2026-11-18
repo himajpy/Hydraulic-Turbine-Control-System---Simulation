@@ -14,5 +14,4 @@ A two-stage hierarchical control scheme regulates both frequency/speed and bus v
 2. **Primary Speed/Power Loop:** Integrated governor with $5\%$ droop ($R_p = 0.05$) tracking nominal angular velocity ($\omega \approx 188\,\text{rad/s}$ at $\approx 160\,\text{kW}$ nominal power).
 
 ## Repository Contents
-* `Glal4_Simulink_Bericht.pdf` — Full technical documentation, parameter derivation, and transient analysis (German).
 * `*.slx` — MATLAB/Simulink & Simscape model files.
